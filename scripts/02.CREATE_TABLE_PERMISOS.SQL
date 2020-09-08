@@ -1,0 +1,5 @@
+
+CREATE TABLE permisos (
+    id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    nombrePermiso VARCHAR (255) NOT NULL
+);
