@@ -3,7 +3,7 @@
 
 ---
 
-### Configuración necesaria
+### Configuración 
 
 ---
 
